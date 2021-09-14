@@ -1,4 +1,4 @@
-# Top20 Programming- Langs Web Crawler
+# Top20 Programming Langs Web Crawler
 Crawls the top20 programming languages on [this webpage](https://www.tiobe.com/tiobe-index/)  
   
 ## Things you need to do :open_book:
@@ -18,7 +18,10 @@ pip install BeautifulSoup
 ```
 git clone https://github.com/michael21910/top20-programming-langs-web-crawler
 ```
-* execute the file "index.py"
+* Execute the file "index.py", the dataframe looks better on jupyter notebook with the last code bellow
+```py
+display(output)
+```
   
 ## What will you get :icecream:
 A DataFrame that shows the top 20 programming languages currently.  
